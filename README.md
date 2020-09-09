@@ -1,4 +1,4 @@
-# flutter_app
+# numFinder
 
 A new Flutter application.
 
